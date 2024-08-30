@@ -1,6 +1,6 @@
 ![logo](https://github.com/Savant-Syntax/Savant-Syntax/blob/main/Github%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Vinit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Astrak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
