@@ -1,4 +1,4 @@
-![logo](git_banner.gif) width="400"
+![logo](git_banner.gif)
 
 <h1 align="center">Hi 👋, I'm Astrak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
