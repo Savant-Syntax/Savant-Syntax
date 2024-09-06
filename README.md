@@ -1,10 +1,12 @@
-![logo](https://github.com/Savant-Syntax/Savant-Syntax/blob/main/Github%20Banner.png)
+![logo](git_banner.gif) width="400"
 
 <h1 align="center">Hi 👋, I'm Astrak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savant-syntax&label=Profile%20views&color=0e75b6&style=flat" alt="savant-syntax" /> </p>
+
+<img src="git_animation.gif" width="400" alt="animation" />
 
 - 🌱 I’m currently learning **JavaScript, C etc**
 
